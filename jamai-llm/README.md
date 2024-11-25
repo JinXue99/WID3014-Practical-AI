@@ -5,24 +5,14 @@
 - Submit a single text file containing the URL to the YouTube video link here.
 - Format of text file: MatricID_Name_JamAIBase_URL.txt
 
+## Resume Genie: AI Asssistant for Resume Writing and Job Recommendation
+- [ ] Boost and provide insightful suggestion to improve your resume
+- [ ] Suggest Top 5 Job Role that match your skills
+
+## Technology Used
+- [] Jam AI Base
 
 
-## Deliverables
-- [ ] 
-- [ ] 
-- [ ] 
-
-## Getting started
-
-
-## Connecting to the Azure Vision API
-
-
-## Secure your Credentials
-
-
-## Calling your own API
-The starter code comes with a flask server that serves the website at 
-
-## Additional resources 
+## Target Users
+- [] Job Seekers, especially fresh graduates
 
