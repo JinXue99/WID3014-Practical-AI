@@ -9,7 +9,7 @@
 
 ## Resume Genie : Your AI Assistant for Resume Writing and  Job Recommendation
 - [ ] Boost and Provide Insightful Suggestion to Improve Your Resume
-- [ ] Suggest Top 5 Job Roles That Match Your Skills
+- [ ] Suggest Top 5 Job Roles Based on Your Profile
 
 ## Technology
 - [] Jam AI Base
