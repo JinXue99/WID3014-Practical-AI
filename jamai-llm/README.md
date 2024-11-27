@@ -12,6 +12,7 @@
 - [ ] Tailor Top 5 Job Roles Based on Your Profile
 
 ## Technology
-- [] Jam AI Base
+- [] Frontend: Streamlit
+- [] Backend: Jam AI Base
 
 
